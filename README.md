@@ -4,4 +4,4 @@ Files and code for the ASCS 47 presentation "Getting in touch with Ovid's Femini
 
 ## License
 
-CC-BY-4.0 (see [LICENSE])
+CC-BY-4.0 (see [LICENSE](LICENSE))
